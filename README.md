@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @scrntprcrz
-- 👀 I’m interested in ts, js, react, react native, ux/ui, java, python
-- 🌱 I’m currently learning swift
-- 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me scrntprcrz@gmail.com
+# Hi, I'm scrntprcrz 👋
 
+## About Me
+I'm a developer with expertise in Node.js 🟩, Java ☕, and Python 🐍. I am passionate about technology and always eager to learn and enhance my skills.
 
+## Technologies and Tools
+- Node.js 🟩
+- Java ☕
+- Python 🐍
+
+## Interests
+- 🎮 Games
+- 🎵 Music
+- 🍺 Beer
