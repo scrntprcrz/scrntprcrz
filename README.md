@@ -1,14 +1,8 @@
-# Hi, I'm scrntprcrz 👋
+ # Hola, soy Oscar Antepara 👋  
 
-## About Me
-I'm a developer with expertise in Node.js 🟩, Java ☕, and Python 🐍. I am passionate about technology and always eager to learn and enhance my skills.
+Soy desarrollador full-stack creando backends escalables con **Node.js** y **TypeScript** (Nest.js, Express, Fastify), endpoints **HTTP**, **WebSocket** y **SSE**, servicios **GraphQL** y **gRPC**, y gestión de bases de datos **SQL** (PostgreSQL, MySQL, SQL Server, SQLite, Oracle, MariaDB) y **NoSQL** (CouchDB, Redis, Cassandra, DynamoDB, MongoDB). En frontend desarrollo SPAs y SSR con **React**, **Next.js**, **Remix** y **Vue**, estilizados con **CSS**, **Tailwind CSS** y **Material UI**, y uso **WebRTC**, **Web Workers** y **WASM** para funcionalidades avanzadas. Desarrollo apps móviles con **React Native** y nativas para IOS (UIKit & SwiftUI), y aplicaciones de escritorio con **Electron** o nativas en macOS. Despliego funciones serverless en **AWS Lambda**, **Azure** & **Google Cloud**, contenedorizo con **Docker** & **Kubernetes**, gestiono mensajería con **RabbitMQ**, **Kafka** & **Amazon SQS**, y garantizo la calidad de código con **Jest** & **Cypress**. También manejo **PHP**, **Java**.
 
-## Technologies and Tools
-- Node.js 🟩
-- Java ☕
-- Python 🐍
 
-## Interests
-- 🎮 Games
-- 🎵 Music
-- 🍺 Beer
+# Hi, I'm Oscar Antepara 👋
+
+I’m a full-stack developer creating scalable backends with **Node.js** and **TypeScript** (Nest.js, Express, Fastify), **HTTP**, **WebSocket** and **SSE** endpoints, **GraphQL** and **gRPC** services, and managing **SQL** (PostgreSQL, MySQL, SQL Server, SQLite, Oracle, MariaDB) and **NoSQL** (CouchDB, Redis, Cassandra, DynamoDB, MongoDB) databases. On the frontend, I develop SPAs and SSR apps with **React**, **Next.js**, **Remix** and **Vue**, styled with **CSS**, **Tailwind CSS** and **Material UI**, and I use **WebRTC**, **Web Workers** and **WASM** for advanced features. I develop mobile apps with **React Native** and native **iOS** apps (UIKit & SwiftUI), and desktop applications with **Electron** or native on **macOS**. I deploy serverless functions on **AWS Lambda**, **Azure** & **Google Cloud**, containerize with **Docker** & **Kubernetes**, manage messaging with **RabbitMQ**, **Kafka** & **Amazon SQS**, and guarantee code quality with **Jest** & **Cypress**. I also handle **PHP** and **Java**.
